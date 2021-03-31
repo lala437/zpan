@@ -25,7 +25,7 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/lala437/gopkg/ginutil"
+	"github.com/saltbo/gopkg/ginutil"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
