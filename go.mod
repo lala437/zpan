@@ -1,4 +1,4 @@
-module github.com/saltbo/zpan
+module github.com/lala437/zpan
 
 // +heroku goVersion go1.16
 go 1.16

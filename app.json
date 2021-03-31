@@ -1,7 +1,7 @@
 {
   "name": "ZPan",
   "description": "A self-host cloud disk base on the cloud storage",
-  "repository": "https://github.com/saltbo/zpan",
+  "repository": "https://github.com/lala437/zpan",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": [
     "go",
