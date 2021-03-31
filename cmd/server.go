@@ -28,9 +28,8 @@ import (
 	"github.com/saltbo/gopkg/ginutil"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-
-	"github.com/lala437/zpan/internal/app/api"
-	"github.com/lala437/zpan/internal/app/dao"
+	"github.com/saltbo/zpan/internal/app/api"
+	"github.com/saltbo/zpan/internal/app/dao"
 	"github.com/lala437/zpan/web"
 )
 
