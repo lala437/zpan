@@ -1,5 +1,5 @@
 /*
-Copyright © 2020 Ambor <saltbo@foxmail.com>
+Copyright © 2020 Ambor <lala437@foxmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,13 +25,13 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/saltbo/gopkg/ginutil"
+	"github.com/lala437/gopkg/ginutil"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/saltbo/zpan/internal/app/api"
-	"github.com/saltbo/zpan/internal/app/dao"
-	"github.com/saltbo/zpan/web"
+	"github.com/lala437/zpan/internal/app/api"
+	"github.com/lala437/zpan/internal/app/dao"
+	"github.com/lala437/zpan/web"
 )
 
 // serverCmd represents the server command

@@ -1,5 +1,5 @@
 /*
-Copyright © 2020 Ambor <saltbo@foxmail.com>
+Copyright © 2020 Ambor <lala437@foxmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,9 +37,9 @@ var rootCmd = &cobra.Command{
 	Use:   "zpan",
 	Short: "zpan is a cloud disk base on the cloud service.",
 	Long: `Zpan is a cloud disk server 
-built with love by saltbo and friends in Go.
+built with love by lala437 and friends in Go.
 
-Complete documentation is available at https://saltbo.cn/zpan`,
+Complete documentation is available at https://lala437.cn/zpan`,
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.

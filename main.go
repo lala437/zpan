@@ -22,7 +22,7 @@ THE SOFTWARE.
 package main
 
 import (
-	"github.com/saltbo/zpan/cmd"
+	"github.com/lala437/zpan/cmd"
 )
 
 func main() {
